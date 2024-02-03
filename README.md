@@ -8,7 +8,7 @@ The Power BI Virtual Case Experience, in collaboration with PwC, offers a platfo
 # Call Centre Trends (Depicting customer and agent patterns)
 The call center trends are the subject of this case study. Here, we examine various call metrics such as the quantity of incoming calls, calls answered overall, calls answered quickly, average call duration, and overall satisfaction rating. We can filter agents according to the requirement in order to monitor their performance.Finding the areas where performance can be watched over and improved is the aim.
 
-![Call Center Screenshot](https://github.com/devika-santhosh/Power-BI-PwC-Project/assets/125188753/f182040a-425c-424f-b92e-ce411b1df2b1)
+![Call centre](https://github.com/devika-santhosh/Power-BI-PwC-Project/assets/125188753/b384a39d-6290-414d-8518-75f6691b9de6)
 
 # Customer Retention (Insights into customer demographics)
 The company is interested in identifying potential clients who may leave. This dashboard is being used to analyze:
